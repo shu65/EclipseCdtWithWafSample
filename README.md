@@ -5,8 +5,10 @@ sample of eclipse cdt with waf
 
 Usage
 --------
-At first,
+At first, 
+
     ./waf configure eclipse
+    
 And then, import this project to eclipse
 
 
